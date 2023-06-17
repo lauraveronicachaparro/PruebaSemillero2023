@@ -1,4 +1,4 @@
-# Hola a todoss y todass
+# Hola a todoss y todass ya volvio mi compu
 import numpy as np
 import os
 
